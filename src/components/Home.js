@@ -63,7 +63,7 @@ const data = [
         "peakPower": "1,040"
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "Lowest Cost Solar Panels in America",
         "description": "Money-back guarantee",
         "image": solarP,
@@ -71,7 +71,7 @@ const data = [
         "secondButtonText": "Learn more",
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "Solar for new Roofs",
         "description": "Solar Roof Cost Less Then a New Roof",
         "image": solarR,
@@ -79,7 +79,7 @@ const data = [
         "secondButtonText": "Learn more",
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "Accessories",
         "description": "",
         "image": accessories,
